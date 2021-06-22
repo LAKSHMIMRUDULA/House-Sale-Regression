@@ -1,14 +1,6 @@
 # House-Sale-Regression
-content: 1.Loading and Checking data
-2.Data preprocessing 
-3.Creating Models
+![image](https://user-images.githubusercontent.com/77747784/122900173-13f8d200-d36a-11eb-8442-d7eed106d4d7.png)
 
-Linear Regression
-polynomial Regression
-SVR(Support Vector Regression)
-Decision Tree
-Random Forest
-4.Conclusion
 ![image](https://user-images.githubusercontent.com/77747784/122896874-21608d00-d367-11eb-91b6-4c982162e113.png)
 ![image](https://user-images.githubusercontent.com/77747784/122896971-376e4d80-d367-11eb-888b-966e5f5fe51c.png)
 ![image](https://user-images.githubusercontent.com/77747784/122897044-435a0f80-d367-11eb-9e78-2214bef17d2f.png)
